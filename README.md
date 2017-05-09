@@ -1,6 +1,6 @@
 # abbozza-build-microbit
 
-This project is a fork of the microbit-samples project. It is adapted to serve as abbozza!'s build subsystem for the micro:bit.
+This project is a fork of the [microbit-samples](https://github.com/lancaster-university/microbit-samples) project. It is adapted to serve as abbozza!'s build subsystem for the micro:bit.
 
 ## Files differing from the original
 
